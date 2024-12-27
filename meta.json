@@ -1,0 +1,24 @@
+﻿{
+  "ID": "phoenixrising.tweaked",
+  "AssemblyName": "JarnosGooGun.dll",
+  "Author": [
+    {
+      "Key": "English",
+      "Value": "Jarno Mikkola"
+    }
+  ],
+  "Version": "1.0",
+  "Name": [
+    {
+      "Key": "English",
+      "Value": "Jarnos Goo Gun"
+    }
+  ],
+  "Description": [
+    {
+      "Key": "English",
+      "Value": "A Goo Gun tweak"
+    }
+  ],
+  "Dependencies": []
+}
